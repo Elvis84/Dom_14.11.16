@@ -1,1 +1,6 @@
-div {color: #c12e2a}
+div {color: #c12e2a;
+    border: solid;
+    width: 500px;
+    margin: auto;
+    border-color: darkblue;
+}
