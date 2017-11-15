@@ -3,6 +3,7 @@ h1 {color: #c12e2a;
     width: 500px;
     margin: auto;
     border-color: darkblue;}
-img {height: 50px;
-    width: 50px;
+img {height: 25px;
+    width: 25px;
 }
+button {margin-left: 30px}
